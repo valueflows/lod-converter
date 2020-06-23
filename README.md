@@ -1,2 +1,3 @@
 # lod-converter
-jar to create multiple RDF serializations of the same data
+
+**lod-converter has moved to https://lab.allmende.io/valueflows/lod-converter**
